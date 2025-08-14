@@ -36,7 +36,7 @@ Example:
 
 4. Screenshot
 
-* Netdata Dashboard *
+-  Netdata Dashboard 
 
 <img width="940" height="529" alt="image" src="https://github.com/user-attachments/assets/783cec40-0dd8-4394-813b-ae30a0b8c967" />
 
@@ -46,11 +46,11 @@ Example:
 
 <img width="940" height="529" alt="image" src="https://github.com/user-attachments/assets/5894258b-9a77-494d-8be7-481de98c3d8c" />
 
-* Docker logs *
+- Docker logs 
 
 <img width="940" height="529" alt="image" src="https://github.com/user-attachments/assets/2825140c-458e-4c77-a826-2b5387906013" />
 
-* Docker container (Netdata) *
+- Docker container (Netdata) 
 
 <img width="940" height="219" alt="image" src="https://github.com/user-attachments/assets/10e33a24-0277-4341-a3c3-41ab4dc1e796" />
 
